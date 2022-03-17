@@ -1,0 +1,14 @@
+/* styles.css */
+.a-text { 
+    background-color: lightpink ;
+    font-family: Verdana, DejaVu Sans, sans-serif;
+}
+
+#bob {
+color: blue;
+font-size: 36px;
+}
+#cod {
+    background-color: lightgreen;
+    font-size: 24px;
+}
