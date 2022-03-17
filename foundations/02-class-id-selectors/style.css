@@ -1,8 +1,10 @@
 /* styles.css */
 .a-text { 
     background-color: lightpink ;
-    font-family: Verdana, DejaVu Sans, sans-serif;
+    font-family: Verdana, "DejaVu Sans", sans-serif;
 }
+
+.b {font-size: 24px;}
 
 #bob {
 color: blue;
